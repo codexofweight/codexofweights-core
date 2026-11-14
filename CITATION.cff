@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Codex of Weights: shared core"
+type: software
+authors:
+  - family-names: Arzamastsev
+    given-names: Artem A.
+    alias: "Артем Андреевич Арзамасцев"
+license: Apache-2.0
+repository-code: "https://github.com/codexofweight/codexofweights-core"
+url: "https://codexofweight.github.io/codexofweights/"
+abstract: "Shared safety core for Codex of Weights agents: hash pin of the Codex text, model limits, fail-closed sandbox."
+keywords: [Codex of Weights, AI ethics, AI alignment, AI safety, AI agents]
+references:
+  - type: generic
+    title: "Codex of Weights (Кодекс Весов), Edition 1.0"
+    authors:
+      - family-names: Arzamastsev
+        given-names: Artem A.
+    doi: 10.5281/zenodo.23545813
+    url: "https://github.com/codexofweight/codexofweights"
